@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/s2patgacr2gr/ClassicPogs/
+    - /bin/cp -R images $DEPLOYPATH
