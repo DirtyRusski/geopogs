@@ -1,7 +1,7 @@
 {
   "name": "@0xcert/ethereum-erc721",
   "version": "2.4.0",
-  "description": "Non-fungible token standard implementation for the Ethereum blockchain.",
+  "description": "Non-fungible token standard implementation for the Ethereum Classic blockchain.",
   "scripts": {
     "compile": "specron compile",
     "sandbox": "specron sandbox",
